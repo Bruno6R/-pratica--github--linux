@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Descricao da versao criada diretamente na main.
+=======
+Descricao da versao pela branch feature -ajuste -1.
+>>>>>>> feature-ajuste-1
